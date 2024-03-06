@@ -8,4 +8,5 @@
 <br>
 
 ### Algorithm
+- [이분 탐색(Binary Search)](https://github.com/h-suo/CS-Interview/blob/main/content/24.03.06.md)
 - [DFS & BFS](https://github.com/h-suo/CS-Interview/blob/main/content/24.02.29.md)
