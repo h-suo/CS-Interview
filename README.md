@@ -5,6 +5,7 @@
 - [중앙처리장치(CPU) 작동 원리](https://github.com/h-suo/CS-Interview/blob/main/content/24.03.01.md)
 - [캐시 메모리(Cache Memory)](https://github.com/h-suo/CS-Interview/blob/main/content/24.03.04.md)
 - [고정 소수점 & 부동 소수점](https://github.com/h-suo/CS-Interview/blob/main/content/24.03.09.md)
+- [패리티 비트 & 해밍 코드](https://github.com/h-suo/CS-Interview/blob/main/content/24.03.12.md)
 
 <br>
 
