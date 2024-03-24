@@ -10,6 +10,7 @@
 <br>
 
 ### Data Structure
+- [연결 리스트(Linked List)](https://github.com/h-suo/CS-Interview/blob/main/content/24.03.24.md)
 - [해시(Hash)](https://github.com/h-suo/CS-Interview/blob/main/content/24.03.20.md)
 
 <br>
