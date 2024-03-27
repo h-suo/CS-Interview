@@ -13,6 +13,7 @@
 - [연결 리스트(Linked List)](https://github.com/h-suo/CS-Interview/blob/main/content/24.03.24.md)
 - [스택(Stack)](https://github.com/h-suo/CS-Interview/blob/main/content/24.03.25.md)
 - [큐(Queue)](https://github.com/h-suo/CS-Interview/blob/main/content/24.03.26.md)
+- [힙(heap)](https://github.com/h-suo/CS-Interview/blob/main/content/24.03.27.md)
 - [해시(Hash)](https://github.com/h-suo/CS-Interview/blob/main/content/24.03.20.md)
 
 <br>
