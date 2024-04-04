@@ -31,5 +31,6 @@
 - [삽입 정렬 (Insertion Sort)](https://github.com/h-suo/CS-Interview/blob/main/content/24.03.22.md)
 - [퀵 정렬(Quick Sort)](https://github.com/h-suo/CS-Interview/blob/main/content/24.04.01.md)
 - [병합 정렬(Merge Sort)](https://github.com/h-suo/CS-Interview/blob/main/content/24.04.02.md)
+- [힙 정렬(Heap Sort)](https://github.com/h-suo/CS-Interview/blob/main/content/24.04.04.md)
 - [이분 탐색(Binary Search)](https://github.com/h-suo/CS-Interview/blob/main/content/24.03.06.md)
 - [DFS & BFS](https://github.com/h-suo/CS-Interview/blob/main/content/24.02.29.md)
