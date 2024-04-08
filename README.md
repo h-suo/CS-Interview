@@ -34,3 +34,4 @@
 - [힙 정렬(Heap Sort)](https://github.com/h-suo/CS-Interview/blob/main/content/24.04.04.md)
 - [이분 탐색(Binary Search)](https://github.com/h-suo/CS-Interview/blob/main/content/24.03.06.md)
 - [DFS & BFS](https://github.com/h-suo/CS-Interview/blob/main/content/24.02.29.md)
+- [동적 계획법 (Dynamic Programming)](https://github.com/h-suo/CS-Interview/blob/main/content/24.04.08.md)
