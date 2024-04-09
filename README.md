@@ -15,6 +15,7 @@
 - [큐(Queue)](https://github.com/h-suo/CS-Interview/blob/main/content/24.03.26.md)
 - [힙(Heap)](https://github.com/h-suo/CS-Interview/blob/main/content/24.03.27.md)
 - [트리(Tree)](https://github.com/h-suo/CS-Interview/blob/main/content/24.03.29.md)
+- [그래프(Graph)](https://github.com/h-suo/CS-Interview/blob/main/content/24.04.09.md)
 - [이진 탐색 트리(Binary Search Tree)](https://github.com/h-suo/CS-Interview/blob/main/content/24.04.03.md)
 - [해시(Hash)](https://github.com/h-suo/CS-Interview/blob/main/content/24.03.20.md)
 
