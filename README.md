@@ -26,6 +26,11 @@
 
 <br>
 
+### Network
+- [OSI 7 계층(OSI 7 Layer)](https://github.com/h-suo/CS-Interview/blob/main/content/24.04.12.md)
+
+<br>
+
 ### Algorithm
 - [거품 정렬(Bubble Sort)](https://github.com/h-suo/CS-Interview/blob/main/content/24.03.15.md)
 - [선택 정렬(Selection Sort)](https://github.com/h-suo/CS-Interview/blob/main/content/24.03.21.md)
