@@ -18,6 +18,7 @@
 - [그래프(Graph)](https://github.com/h-suo/CS-Interview/blob/main/content/24.04.09.md)
 - [이진 탐색 트리(Binary Search Tree)](https://github.com/h-suo/CS-Interview/blob/main/content/24.04.03.md)
 - [해시(Hash)](https://github.com/h-suo/CS-Interview/blob/main/content/24.03.20.md)
+- [트라이(Trie)](https://github.com/h-suo/CS-Interview/blob/main/content/24.04.16.md)
 
 <br>
 
