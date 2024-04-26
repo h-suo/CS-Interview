@@ -25,6 +25,7 @@
 ### Database
 - [키(Key)](https://github.com/h-suo/CS-Interview/blob/main/content/24.03.31.md)
 - [SQL](https://github.com/h-suo/CS-Interview/blob/main/content/24.04.22.md)
+- [DQL & JOIN](https://github.com/h-suo/CS-Interview/blob/main/content/24.04.26.md)
 
 <br>
 
