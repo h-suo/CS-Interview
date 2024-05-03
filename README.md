@@ -32,7 +32,8 @@
 
 ### Network
 - [OSI 7 계층(OSI 7 Layer)](https://github.com/h-suo/CS-Interview/blob/main/content/24.04.12.md)
-- [3 way handshake & 4 way handshake](https://github.com/h-suo/CS-Interview/blob/main/content/24.04.17.md)
+- [TCP 3 way handshake & 4 way handshake](https://github.com/h-suo/CS-Interview/blob/main/content/24.04.17.md)
+- [TCP 흐름 제어 & 혼잡 제어](https://github.com/h-suo/CS-Interview/blob/main/content/24.05.03.md)
 
 <br>
 
